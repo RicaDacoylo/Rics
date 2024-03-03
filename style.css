@@ -11,3 +11,7 @@ body {
 .img container {
  " height="130";}width=130"
 }
+.video container{
+    position: relative;
+    text-align: center;
+}
