@@ -1,9 +1,9 @@
 body {
     
- color: purple;
+ color: yellow;
  font-style: sanserif;
  text-align: center;
- background: gray;
+ background: pink;
  font-weight: bold;
  font-size: 20px;
 
@@ -14,4 +14,18 @@ body {
 .video container{
     position: relative;
     text-align: center;
+}
+
+#datetime {
+    color: black;
+    text-align: left;
+    font-size: 20px;
+    position: absolute;
+    
+}
+#time {
+    color: black;
+    text-align: left;
+    font-size: 20px;
+    position: absolute;
 }
